@@ -15,3 +15,15 @@ def groupAnagrams(strs):
         anagrams[''.join(sorted(word))].append(word)
     return list(anagrams.values())
 
+
+def getAnagrams(strs):
+    anagrams = dict()
+    for word in strs:
+        keys = ''.join(sorted(word))
+        try:
+            anagrams[keys].append(word)
+        
+        except:
+            anagrams[keys] = [word]
+    
+    return list(anagrams.values())
