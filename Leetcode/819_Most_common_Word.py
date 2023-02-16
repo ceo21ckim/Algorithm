@@ -33,3 +33,37 @@ def mostcommonWord(paragraph):
              if word not in banned]
     counts = Counter(words)
     return counts.most_common(1)[0][0]
+
+# solution 3
+import re
+def mostCommonWord(paragraph):
+    words = [word for word in re.sub(r'[^\w]', ' ', paragraph).lower().split() if word not in banned]
+    unique = set(words)
+
+    results = {}
+    for word in unique:
+        results[word] = words.count(word)
+    
+    return max(results, key=results.get)
+
+
+mostCommonWord(paragraph)
+
+
+'''
+Create a new, empty Counter object. And if given, count elements from an input iterable. Or, initialize the count from another mapping of elements to their counts.
+
+>>> c = Counter()                           # a new, empty counter
+>>> c = Counter('gallahad')                 # a new counter from an iterable
+>>> c = Counter({'a': 4, 'b': 2})           # a new counter from a mapping
+>>> c = Counter(a=4, b=2)                   # a new counter from keyword args
+
+
+from collections import Counter
+c = Counter('gallahad')
+help(Counter)
+sorted(c.elements())
+['a', 'a', 'a', 'd', 'g', 'h', 'l', 'l']
+
+'''
+
