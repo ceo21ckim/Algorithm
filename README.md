@@ -1,6 +1,6 @@
 # Algorithm
 
-Algorithm practice for the coding test. There are various coding platform questions (Leetcode, BOJ, etc).
+Algorithm practice for the coding test. There are various coding platform problems (Leetcode, BOJ, etc).
 
 When testing coding algorithm, we can use built-in functions such as `itertools` and `collections`. 
 
