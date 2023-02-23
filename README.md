@@ -1,6 +1,8 @@
 # Algorithm
 
-코딩 테스트를 위한 알고리즘 연습.
+Algorithm practice for the coding test. There are various coding platform questions (Leetcode, BOJ, etc).
+
+When testing coding algorithm, we can use built-in functions such as `itertools` and `collections`. 
 
 
 ### Leetcode
