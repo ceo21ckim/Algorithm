@@ -12,6 +12,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 
 # time out
 prices = [7, 1, 5, 3, 6, 4]
+# outs = [-1, 5, 1, 3, -2, 0]
 
 def maxProfit(prices):
     if len(prices) == 1:
@@ -26,12 +27,14 @@ maxProfit(prices)
 
 # solution 1
 import sys 
+
+# prices = [7, 1, 5, 3, 6, 4]
 def maxProfit(prices):
     profit = 0 
     min_price = sys.maxsize # 9223372036854775807
     
     for price in prices:
-        min_price = min(min_price, price)
-        profit = max(profit, price - min_price)
+        min_price = min(min_price, price) # 7, 1, 1
+        profit = max(profit, price - min_price) # 0, 0, 4
     
     return profit 

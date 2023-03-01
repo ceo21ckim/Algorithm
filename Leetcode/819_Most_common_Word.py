@@ -59,11 +59,10 @@ Create a new, empty Counter object. And if given, count elements from an input i
 >>> c = Counter(a=4, b=2)                   # a new counter from keyword args
 
 
-from collections import Counter
+from collections import Counter, deafaultdict, permutations, combination
 c = Counter('gallahad')
 help(Counter)
 sorted(c.elements())
 ['a', 'a', 'a', 'd', 'g', 'h', 'l', 'l']
 
 '''
-

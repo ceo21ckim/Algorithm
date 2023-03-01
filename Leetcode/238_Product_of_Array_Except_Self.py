@@ -11,18 +11,35 @@ Output: [24, 12, 8, 6]
 
 ## solution 1
 nums = [1, 2, 3, 4]
+# out = [24, 12, 8, 6]
 p = 1
 out = []
 for i in range(len(nums)):
     out.append(p)
     p = p * nums[i]
 
+# out: [1, 1, 2, 6]
+
+
 p = 1 
 for i in range(len(nums)-1, -1, -1):
-    out[i] = out[i] * p 
+    print(i)
+    out[i] = out[i] * p
+    print(out[i])
+    # step1: 6*1
+    # step2: (p=4) 2*4
+    # step3: (p=12) 1 * 12
+    # step4: 1 * 24
+          
     p = p * nums[i]
+    print('\n',p)
+    # step1: 1 * 4
+    # step2: 4 * 3 = 12
+    # step3: 12 * 2
+    # step4: 24 * 1
+    
+    
 
-out
 
 ## solution 2
 import numpy as np 
@@ -35,5 +52,5 @@ results
 from itertools import accumulate
 nums = [1, 2, 3, 4]
 results = list(accumulate(nums, lambda x, y : x*y))
-print(results[::-1])
 
+list(accumulate(nums, lambda x, y: x*y))

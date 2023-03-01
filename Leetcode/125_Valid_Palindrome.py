@@ -3,6 +3,7 @@
 A phrase is a "Palindrome" if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric, 
 it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 '''
+
 # solution 1 O(n^2)
 def isPalindrome(s:str) -> bool:
     strs = []
@@ -38,5 +39,3 @@ def isPalindrome(s:str) -> bool:
     s = re.sub('[^a-z0-9]', '', s)
     
     return s == s[::-1]
-
-
