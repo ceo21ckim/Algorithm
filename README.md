@@ -24,6 +24,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 * [328_Odd_Even_Linked_List](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/328_Odd_Even_Linked_List.py)
 * [344_Reverse_String](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/344_Reverse_String.py)
 * [561_Array_Partition](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/561_Array_Partition.py)
+* [706_Design_HashMap](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/706_Design_HashMap.py)
 * [739_Daily_Temperatures](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/739_Daily_Temperatures.py)
 * [819_Most_common_Word](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/819_Most_common_Word.py)
 * [937_Reorder_Log_Files](https://github.com/ceo21ckim/Algorithm/blob/main/Leetcode/937_Reorder_Log_Files.py)
