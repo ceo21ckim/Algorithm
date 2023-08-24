@@ -32,7 +32,57 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 
 ### Programmers
 
-* [Level1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level1.ipynb)
+* [Level1-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level1-1.ipynb)
+  * 로또의 최고 순위와 최저 순위
+  * 신규 아이디 추천
+  * 숫자 문자열과 영단어
+  * 숫자 문자열과 영단어 (2)
+  * 내적
+  * 응양 더하기
+  * K번째 수
+  * 예산 X
+  * 예산
+  * 두 개 뽑아서 더하기
+  * 문자열 내 p와 y의 개수
+  * 약수의 개수와 덧셈
+  * 문자열을 정수로 바꾸기
+  * 가운데 글자 가져오기
+  * 약수의 합
+  * 체육복
+  * 부족한 금액 계산하기
+  * 상호 평가
+  * 문자열 다루기 기본
+  * 행렬의 덧셈
+  * 최대공약수와 최소공배수
+  * 핸드폰 번호 가리기
+  * x만큼 간격이 있는 n개의 숫자
+  * 짝수와 홀수
+  * 하샤드 수
+  * 직사각형 별찍기
+  * 제일 작은 수 제거하기
+  * 자연수 뒤집어 배열로 만들기
+  * 정수 내림차순으로 배치하기
+  * 콜라츠 추측
+  * 이상한 문자 만들기
+  * 자릿수 더하기
+  * 수박수박수박수박수?
+  * 소수 찾기
+  * 나누어 떨어지는 숫자 배열
+  * 문자열 내림차순으로 배치하기
+  * 폰켓몬
+  * 4주차
+  * 문자열 내 마음대로 정렬하기
+  * 같은 숫자는 싫어
+  * 두 정수 사이의 합
+  * 완주하지 못한 선수
+  * 없는 숫자 더하기
+
+* [Level1-2](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level1-2.ipynb)
   * 달리기 경주
   * 추억 점수
   * 공원 산책
+  * 크기가 작은 부분 문자열
+  * 개인정보 수집 유효기간
+  * 성격 유형 검사기
+  * 키패드 누르기
+  * 크레인 인형뽑기 게임
