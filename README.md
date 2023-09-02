@@ -31,6 +31,14 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 
 
 ### Programmers
+| **Level** | **Solved** | **Total** | **Percent** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Level.0** | 2 | 224 | **0.01%** |
+| **Level.1** | 50 | 77 | **64.94%** |
+| **Level.2** | 16 | 104 | **15.38%** |
+| **Level.3** | 0 | 68 | **0.00%** |
+| **Level.4** | 0 | 23 | **0.00%** |
+| **Level.5** | 0 | 12 | **0.00%** |
 
 * [Level1-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level1-1.ipynb)
   * 로또의 최고 순위와 최저 순위
@@ -86,3 +94,25 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 성격 유형 검사기
   * 키패드 누르기
   * 크레인 인형뽑기 게임
+  * 신고 결과 받기
+
+* [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-1.ipynb)
+  * 행렬의 곱셈
+  * 큰 수 만들기
+  * 가장 큰 수
+  * N개의 최소 공배수
+  * H-Index
+  * 다음 큰 숫자
+  * 숫자의 표현
+  * 최솟값 만들기
+  * 올바른 괄호
+  * 짝지어 제거하기
+  * 방문 길이
+  * 소수 찾기
+
+* [Level2-2](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-2.ipynb)
+  * 거리두기 확인
+  * 주차 요금 계산
+  * 연속된 부분 수열의 합
+  * 이모티콘 할인행사
+  
