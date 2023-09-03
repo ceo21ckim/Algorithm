@@ -34,8 +34,8 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 | **Level** | **Solved** | **Total** | **Percent** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Level.0** | 2 | 224 | **0.01%** |
-| **Level.1** | 50 | 77 | **64.94%** |
-| **Level.2** | 16 | 104 | **15.38%** |
+| **Level.1** | 53 | 77 | **68.83%** |
+| **Level.2** | 17 | 104 | **16.35%** |
 | **Level.3** | 0 | 68 | **0.00%** |
 | **Level.4** | 0 | 23 | **0.00%** |
 | **Level.5** | 0 | 12 | **0.00%** |
@@ -95,6 +95,9 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 키패드 누르기
   * 크레인 인형뽑기 게임
   * 신고 결과 받기
+  * 실패율
+  * 최소직사각형
+  * 나머지가 1이 되는 수 찾기
 
 * [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-1.ipynb)
   * 행렬의 곱셈
@@ -115,4 +118,5 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 주차 요금 계산
   * 연속된 부분 수열의 합
   * 이모티콘 할인행사
+  * 오픈채팅방
   
