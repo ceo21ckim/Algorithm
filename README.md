@@ -120,4 +120,6 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 연속된 부분 수열의 합
   * 이모티콘 할인행사
   * 오픈채팅방
+  * 두 큐 수 합 같게 만들기
+  * 메뉴 리뉴얼
   
