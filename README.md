@@ -112,6 +112,12 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 짝지어 제거하기
   * 방문 길이
   * 소수 찾기
+  * 피보나치 수
+  * JadenCase 문자열 만들기
+  * 카펫
+  * 영어 끝말잇기
+  * 구명 보트
+  * 멀리 뛰기
 
 * [Level2-2](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-2.ipynb)
   * 거리두기 확인
