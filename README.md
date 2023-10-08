@@ -99,6 +99,10 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 실패율
   * 최소직사각형
   * 나머지가 1이 되는 수 찾기
+  * 둘만의 암호
+  * 푸드 파이트 대회
+  * 3진법 뒤집기
+  * 문자열 내 마음대로 정렬하기
 
 * [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-1.ipynb)
   * 행렬의 곱셈
