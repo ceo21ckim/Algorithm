@@ -34,8 +34,8 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 ### Programmers
 | **Level** | **Solved** | **Total** | **Percent** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Level.0** | 179 | 224 | **79.91%** |
-| **Level.1** | 62 | 77 | **80.52%** |
+| **Level.0** | 184 | 224 | **82.14%** |
+| **Level.1** | 63 | 77 | **81.82%** |
 | **Level.2** | 32 | 104 | **30.77%** |
 | **Level.3** | 0 | 68 | **0.00%** |
 | **Level.4** | 0 | 23 | **0.00%** |
@@ -104,6 +104,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 3진법 뒤집기
   * 문자열 내 마음대로 정렬하기
   * 가장 가까운 같은 글자
+  * 카드 뭉치
 
 * [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-1.ipynb)
   * 행렬의 곱셈
