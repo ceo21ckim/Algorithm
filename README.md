@@ -34,8 +34,8 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 ### Programmers
 | **Level** | **Solved** | **Total** | **Percent** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Level.0** | 184 | 224 | **82.14%** |
-| **Level.1** | 63 | 77 | **81.82%** |
+| **Level.0** | 204 | 224 | **91.07%** |
+| **Level.1** | 67 | 77 | **87.01%** |
 | **Level.2** | 32 | 104 | **30.77%** |
 | **Level.3** | 0 | 68 | **0.00%** |
 | **Level.4** | 0 | 23 | **0.00%** |
