@@ -133,4 +133,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 오픈채팅방
   * 두 큐 수 합 같게 만들기
   * 메뉴 리뉴얼
+  * 연속 부분 수열 합의 개수
+  * 괄호 회전하기
+  * $n^2$ 배열 가르기
   
