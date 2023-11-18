@@ -35,7 +35,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 |:--------:|:--------:|:--------:|:--------:|
 | **Level.0** | 218 | 224 | **97.32%** |
 | **Level.1** | 70 | 77 | **90.91%** |
-| **Level.2** | 32 | 104 | **30.77%** |
+| **Level.2** | 37 | 104 | **35.58%** |
 | **Level.3** | 0 | 68 | **0.00%** |
 | **Level.4** | 0 | 23 | **0.00%** |
 | **Level.5** | 0 | 12 | **0.00%** |
@@ -105,35 +105,42 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 가장 가까운 같은 글자
   * 카드 뭉치
 
-* [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-1.ipynb)
-  * 행렬의 곱셈
-  * 큰 수 만들기
-  * 가장 큰 수
-  * N개의 최소 공배수
-  * H-Index
-  * 다음 큰 숫자
-  * 숫자의 표현
+* [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2.ipynb)
+  * 최댓값과 최솟값
+  * JadenCase 문자열 만들기
   * 최솟값 만들기
   * 올바른 괄호
-  * 짝지어 제거하기
-  * 방문 길이
-  * 소수 찾기
+  * 이진 변환 반복하기
+  * 숫자의 표현
+  * 다음 큰 숫자
   * 피보나치 수
-  * JadenCase 문자열 만들기
+  * 짝지어 제거하기
   * 카펫
   * 영어 끝말잇기
-  * 구명 보트
+  * 점프와 순간 이동
+  * 구명보트
+  * 예상 대진표
+  * N개의 최소공배수
   * 멀리 뛰기
-
-* [Level2-2](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2-2.ipynb)
-  * 거리두기 확인
-  * 주차 요금 계산
-  * 연속된 부분 수열의 합
-  * 이모티콘 할인행사
-  * 오픈채팅방
-  * 두 큐 수 합 같게 만들기
-  * 메뉴 리뉴얼
+  * 귤 고르기
   * 연속 부분 수열 합의 개수
   * 괄호 회전하기
-  * $n^2$ 배열 가르기
+  * 할인 행사
+  * n^2 배열 자르기
+  * 행렬의 곱셈
+  * 의상
+  * 튜플
+  * 전화번호 목록
+  * 타겟 넘버
+  * 모음사전
+  * 주차 요금 계산
+  * 뒤에 있는 큰 수 찾기
+  * 오픈채팅방
+  * 숫자 변환하기
+  * 소수 찾기
+  * 두 큐 합 같게 만들기
+  * 연속된 부분 수열의 합
+  * 메뉴 리뉴얼
+  * 거리두기 확인하기
+  * 이모티콘 할인행사
   
