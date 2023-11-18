@@ -105,7 +105,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 가장 가까운 같은 글자
   * 카드 뭉치
 
-* [Level2-1](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2.ipynb)
+* [Level2](https://github.com/ceo21ckim/Algorithm/blob/main/Programmers/level2.ipynb)
   * 최댓값과 최솟값
   * JadenCase 문자열 만들기
   * 최솟값 만들기
