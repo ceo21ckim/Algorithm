@@ -129,11 +129,18 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * n^2 배열 자르기
   * 행렬의 곱셈
   * 의상
+  * 
   * 튜플
+  * 기능 개발
+  * 프로세스
+  * 
   * 전화번호 목록
   * 타겟 넘버
+  * 
   * 모음사전
+  * 
   * 주차 요금 계산
+  * 
   * 뒤에 있는 큰 수 찾기
   * 오픈채팅방
   * 숫자 변환하기
