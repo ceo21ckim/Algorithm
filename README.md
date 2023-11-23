@@ -35,7 +35,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
 |:--------:|:--------:|:--------:|:--------:|
 | **Level.0** | 218 | 224 | **97.32%** |
 | **Level.1** | 70 | 77 | **90.91%** |
-| **Level.2** | 43 | 104 | **41.35%** |
+| **Level.2** | 45 | 106 | **42.45%** |
 | **Level.3** | 0 | 68 | **0.00%** |
 | **Level.4** | 0 | 23 | **0.00%** |
 | **Level.5** | 0 | 12 | **0.00%** |
@@ -134,13 +134,13 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 튜플
   * 기능 개발
   * 프로세스
-  *
+  * 피로도
   * [1차] 뉴스 클러스터링 
   * 전화번호 목록
   * 타겟 넘버
   * 
   * 모음사전
-  * 
+  * 게임 맵 최단거리
   * 더 맵게
   * 주차 요금 계산
   * 
