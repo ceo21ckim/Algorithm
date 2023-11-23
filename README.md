@@ -143,7 +143,7 @@ When testing coding algorithm, we can use built-in functions such as `itertools`
   * 게임 맵 최단거리
   * 더 맵게
   * 주차 요금 계산
-  * 
+  * 방문 길이
   * 뒤에 있는 큰 수 찾기
   * 오픈채팅방
   * 숫자 변환하기
